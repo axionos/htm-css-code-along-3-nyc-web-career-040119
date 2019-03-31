@@ -9,7 +9,9 @@ selector {
 
 */
 
-/*Type Selector
+/*Type Selector*/
 
-p { select <p>}
-*/
+p {
+  font-size: 1em; /* 16px */
+  line-height: 1.5em;
+}
