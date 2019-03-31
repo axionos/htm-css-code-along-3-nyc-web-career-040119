@@ -53,7 +53,7 @@ figcaption {
 
 /*Psuedo selector*/
 
-#details a:link {
+#details a:link, #details a:visited {
   color: #000;
   text-decoration: none;
 }
